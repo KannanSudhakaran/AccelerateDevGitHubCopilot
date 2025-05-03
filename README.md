@@ -12,7 +12,7 @@ Library App is a console-based application for managing library operations, incl
     - `Enums/`: Defines enumerations like `MembershipRenewalStatus`, `LoanReturnStatus`, and `LoanExtensionStatus`.
     - `Interfaces/`: Contains interfaces for services and repositories, such as `IPatronService` and `ILoanRepository`.
     - `Services/`: Implements business logic, including `PatronService` and `LoanService`.
-    - `Library.ApplicationCore.csproj`: Project file for the application core.
+    - `Library.ApplicationCore.csproj`: Project file for the application core.dd
   - `Library.Console/`
     - `appSettings.json`: Configuration file for JSON data paths.
     - `CommonActions.cs`: Defines common actions for the console application.
